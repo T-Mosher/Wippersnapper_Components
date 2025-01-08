@@ -3,11 +3,9 @@
   "vendor": "Generic",
   "productURL": "https://www.adafruit.com/product/165",
   "documentationURL": "hhttps://learn.adafruit.com/tmp36-temperature-sensor",
-  "published": true,
-  "autoSelectString": "light",
   "mode": "ANALOG",
   "direction": "INPUT",
-  "analogReadMode": "PIN_VALUE",
+  "analogReadMode": "PIN_VOLTAGE",
   "defaultPeriod": 60,
   "forceOnPeriod": true,
   "visualization": {
